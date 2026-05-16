@@ -82,9 +82,9 @@ npm run preview
 | Klasör yapısı (Components, Pages, Interfaces) | Var |
 | Ekle / Listele / Güncelle / Sil | Var |
 | Ekran görüntüsü | `screenshot.png` |
-| GitHub public repo | [Eklenecek] |
+| GitHub public repo | https://github.com/Radowfen/todo-app |
 | Netlify yayın | [Eklenecek] |
 
 ## Geliştirici
-
+Emre Açanal
 Staj Projesi · 2026
