@@ -67,7 +67,7 @@ npm run preview
 
 ## Canlı Demo
 
-[Netlify Linki Buraya Eklenecek]
+https://effervescent-taffy-c5e32e.netlify.app/
 
 ## Ekran Görüntüsü
 
@@ -83,7 +83,7 @@ npm run preview
 | Ekle / Listele / Güncelle / Sil | Var |
 | Ekran görüntüsü | `screenshot.png` |
 | GitHub public repo | https://github.com/Radowfen/todo-app |
-| Netlify yayın | [Eklenecek] |
+| Netlify yayın | https://effervescent-taffy-c5e32e.netlify.app/ |
 
 ## Geliştirici
 Emre Açanal
